@@ -6,6 +6,6 @@ Currently, I'm mainly interested in Flutter. We have an application written in F
 
 If you need help with defining the right architecture for your mobile app (both from back-end and front-end sides) or looking for a mentor / code reviewer, feel free to contact me in [LinkedIn](https://www.linkedin.com/in/ookamikb/) or [Twitter](https://twitter.com/ookami_kb) and let’s have a talk.
 
-[![Twitter](https://img.shields.io/twitter/follow/ookami_kb?label=Follow&style=social)](https://twitter.com/ookami_kb)
-[![GitHub](https://img.shields.io/github/followers/ookami-kb?label=Follow&style=social)](https://github.com/ookami-kb/)
+[![Twitter](https://img.shields.io/twitter/follow/ookami_kb?label=ookami_kb&style=social)](https://twitter.com/ookami_kb)
+[![GitHub](https://img.shields.io/github/followers/ookami-kb?label=ookami-kb&style=social)](https://github.com/ookami-kb/)
 [![LinkedIn](https://img.shields.io/static/v1?logo=linkedin&message=ookamikb&color=0077B5&label=)](https://www.linkedin.com/in/ookamikb/)
