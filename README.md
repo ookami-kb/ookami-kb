@@ -30,8 +30,8 @@ or [Twitter](https://twitter.com/ookami_kb) and let’s have a talk.
 3. [1 year in production with Flutter: lessons learned](https://youtu.be/ARP5AozTplw)
 
    Talk at DartUp 2020. Our way to structure the app (BLoC + immutability + Clean Architecture principles), which
-   libraries we’ve found useful (freezed, flutter_bloc, rxdart and others), what practices work better within a team (
-   custom analysis options, code style), which problems we were solving (UI tests, CI integration, error reporting).
+   libraries we’ve found useful (freezed, flutter_bloc, rxdart and others), what practices work better within a team
+   (custom analysis options, code style), which problems we were solving (UI tests, CI integration, error reporting).
 
 ## My articles
 
