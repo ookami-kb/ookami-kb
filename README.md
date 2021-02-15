@@ -10,7 +10,7 @@ production for more than a year.
 
 If you need help with defining the right architecture for your mobile app (both from back-end and front-end sides) or
 looking for a mentor / code reviewer, feel free to contact me in [LinkedIn](https://www.linkedin.com/in/ookamikb/)
-or [Twitter](https://twitter.com/ookami_kb) and let’s have a talk.
+or [Twitter](https://twitter.com/ookami_kb) (or book me at [Mentoring Club](https://www.mentoring-club.com/the-mentors/kirill-bnubochkin)) and let’s have a talk.
 
 [![Twitter](https://img.shields.io/twitter/follow/ookami_kb?label=Twitter&style=social)](https://twitter.com/ookami_kb)
 [![GitHub](https://img.shields.io/github/followers/ookami-kb?label=GitHub&style=social)](https://github.com/ookami-kb/)
