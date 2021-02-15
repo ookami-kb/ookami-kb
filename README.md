@@ -1,5 +1,5 @@
-I am a mobile and web developer with over 10 years of experience. Currently, I'm specializing in mobile development (
-both native and cross-platform), but I was working as a frontend and backend developer as well, so I know the
+I am a mobile and web developer with over 10 years of experience. Currently, I'm specializing in mobile development
+(both native and cross-platform), but I was working as a frontend and backend developer as well, so I know the
 development process from each side.
 
 I'm working as a Head of Mobile Development at [Mews](https://github.com/mewsSystems/developers), so creating the
