@@ -6,7 +6,7 @@ I'm working as a Head of Mobile Development at [Mews](https://github.com/mewsSys
 architecture, code reviewing, mentoring, and integrating best practices is a part of my everyday job.
 
 Currently, I'm mainly interested in Flutter. We have an application written in Flutter that is successfully running in
-production for more than a year.
+production for more than 2 years.
 
 If you need help with defining the right architecture for your mobile app (both from back-end and front-end sides) or
 looking for a mentor / code reviewer, feel free to contact me in [LinkedIn](https://www.linkedin.com/in/ookamikb/)
