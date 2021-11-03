@@ -18,6 +18,7 @@ or [Twitter](https://twitter.com/ookami_kb) (or book me at [Mentoring Club](http
 [![GitHub](https://img.shields.io/github/followers/ookami-kb?label=GitHub&style=social)](https://github.com/ookami-kb/)
 [![LinkedIn](https://img.shields.io/static/v1?logo=linkedin&message=LinkedIn&color=0077B5&label=)](https://www.linkedin.com/in/ookamikb/)
 [![Medium](https://img.shields.io/static/v1?logo=medium&message=Medium&color=000&label=)](https://ookamikb.medium.com)
+[![dev.to](https://img.shields.io/static/v1?logo=dev.to&message=dev.to&color=000&label=)](https://dev.to/ookamikb)
 
 ## My talks
 
