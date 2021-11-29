@@ -35,6 +35,10 @@ or [Twitter](https://twitter.com/ookami_kb) (or book me at [Mentoring Club](http
    Talk at DartUp 2020. Our way to structure the app (BLoC + immutability + Clean Architecture principles), which
    libraries we’ve found useful (freezed, flutter_bloc, rxdart and others), what practices work better within a team
    (custom analysis options, code style), which problems we were solving (UI tests, CI integration, error reporting).
+   
+4. [TechUncovered: Mobile Development](https://youtu.be/MycKhoAD8J0)
+
+   A panel discussion about mobile apps development.
 
 ## My articles
 
