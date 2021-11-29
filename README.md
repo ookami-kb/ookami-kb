@@ -45,3 +45,4 @@ or [Twitter](https://twitter.com/ookami_kb) (or book me at [Mentoring Club](http
 5. [13 Reasons Why Dart Is Worse Than Kotlin](https://medium.com/swlh/13-reasons-why-dart-is-worse-than-kotlin-9d315301528f)
 6. [1 year in production with Flutter: lessons learned](https://medium.com/mews-devs/1-year-in-production-with-flutter-lessons-learned-5de86723c5df)
 7. [Storybook + Flutter = storybook_flutter](https://medium.com/flutter-community/storybook-flutter-storybook-flutter-7fbe23a8188a)
+8. [Another app migrated to Flutter](https://ookamikb.medium.com/another-app-migrated-to-flutter-701e658f596d)
