@@ -40,6 +40,10 @@ or [Twitter](https://twitter.com/ookami_kb) (or book me at [Mentoring Club](http
 
    A panel discussion about mobile apps development.
 
+5. [ViewModel is anti-pattern](https://youtu.be/J7fDHul6Oao)
+
+   Talk at DartUp 2021 about MVVM approach and why you shouldn't use it in Flutter.
+
 ## My articles
 
 1. [Flutter: how to draw text along an arc](https://medium.com/mews-devs/flutter-how-to-draw-text-along-an-arc-840d5501db69)
