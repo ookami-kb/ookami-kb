@@ -12,6 +12,9 @@ If you need help with defining the right architecture for your mobile app (both 
 looking for a mentor / code reviewer, feel free to contact me in [LinkedIn](https://www.linkedin.com/in/ookamikb/)
 or [Twitter](https://twitter.com/ookami_kb) (or book me at [Mentoring Club](https://www.mentoring-club.com/the-mentors/kirill-bubochkin)) and let’s have a talk.
 
+- My blog: https://ookamikb.dev/blog
+- My talks: https://ookamikb.dev/talks
+
 <a href="https://openbadgefactory.com/v1/assertion/a7eef54185868b5d0e6e9f82cb908f5bfe4707cf"><img src="https://openbadgefactory.com/v1/badge/_/QUDMAPa5Y0a2EB.png?event=R0JN2Ia200a42L" width="200px"></a>
 
 [![Twitter](https://img.shields.io/twitter/follow/ookami_kb?label=Twitter&style=social)](https://twitter.com/ookami_kb)
@@ -20,37 +23,3 @@ or [Twitter](https://twitter.com/ookami_kb) (or book me at [Mentoring Club](http
 [![Medium](https://img.shields.io/static/v1?logo=medium&message=Medium&color=000&label=)](https://ookamikb.medium.com)
 [![dev.to](https://img.shields.io/static/v1?logo=dev.to&message=dev.to&color=000&label=)](https://dev.to/ookamikb)
 
-## My talks
-
-1. [Building Kiosk app: tips and tricks](https://www.droidcon.com/media-detail?video=353079956)
-
-   At droidCon Berlin 2019 I was talking about our way to create a kiosk application for Android: what problems we've
-   run into and how we solved them, what you should take into account when building kiosk app.
-2. [Intro to Flutter](https://youtu.be/P1SLlW-kIp4)
-
-   Online talk about types of cross-platform mobile frameworks & what place Flutter takes among them, as well as reasons
-   to choose Flutter for your next project.
-3. [1 year in production with Flutter: lessons learned](https://youtu.be/ARP5AozTplw)
-
-   Talk at DartUp 2020. Our way to structure the app (BLoC + immutability + Clean Architecture principles), which
-   libraries we’ve found useful (freezed, flutter_bloc, rxdart and others), what practices work better within a team
-   (custom analysis options, code style), which problems we were solving (UI tests, CI integration, error reporting).
-   
-4. [TechUncovered: Mobile Development](https://youtu.be/MycKhoAD8J0)
-
-   A panel discussion about mobile apps development.
-
-5. [ViewModel is anti-pattern](https://youtu.be/J7fDHul6Oao)
-
-   Talk at DartUp 2021 about MVVM approach and why you shouldn't use it in Flutter.
-
-## My articles
-
-1. [Flutter: how to draw text along an arc](https://medium.com/mews-devs/flutter-how-to-draw-text-along-an-arc-840d5501db69)
-2. [Flutter for Web: is it a killer of React?](https://medium.com/mews-devs/flutter-for-web-is-it-a-killer-of-react-3d590fb8f4c5)
-3. [Intro to Flutter: a practical guide to cross-platform development](https://medium.com/mews-devs/intro-to-flutter-a-practical-guide-to-cross-platform-development-937d4fafba0)
-4. [UI tests in Flutter with Azure Pipelines](https://medium.com/flutter-community/ui-tests-in-flutter-with-azure-pipelines-c86dea44a0c2)
-5. [13 Reasons Why Dart Is Worse Than Kotlin](https://medium.com/swlh/13-reasons-why-dart-is-worse-than-kotlin-9d315301528f)
-6. [1 year in production with Flutter: lessons learned](https://medium.com/mews-devs/1-year-in-production-with-flutter-lessons-learned-5de86723c5df)
-7. [Storybook + Flutter = storybook_flutter](https://medium.com/flutter-community/storybook-flutter-storybook-flutter-7fbe23a8188a)
-8. [Another app migrated to Flutter](https://ookamikb.medium.com/another-app-migrated-to-flutter-701e658f596d)
