@@ -8,7 +8,7 @@
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>ru</language>
-        <copyright>Copyright © 2022 ookamikb.dev</copyright>
+        <copyright>Copyright © 2023 ookamikb.dev</copyright>
         <item>
             <title><![CDATA[Working with NFC in Flutter]]></title>
             <link>https://ookamikb.dev/ru/blog/2022/09/02/flutter-nfc</link>

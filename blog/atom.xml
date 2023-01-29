@@ -7,7 +7,7 @@
     <link rel="alternate" href="https://ookamikb.dev/blog"/>
     <subtitle>ookamikb.dev Blog</subtitle>
     <icon>https://ookamikb.dev/img/favicon.ico</icon>
-    <rights>Copyright © 2022 ookamikb.dev</rights>
+    <rights>Copyright © 2023 ookamikb.dev</rights>
     <entry>
         <title type="html"><![CDATA[Working with NFC in Flutter]]></title>
         <id>/2022/09/02/flutter-nfc</id>
